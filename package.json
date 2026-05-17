@@ -1,0 +1,27 @@
+{
+  "name": "meshiterobot",
+  "version": "1.0.0",
+  "description": "飯テロ画像を定期的に投稿するBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharkBot-Dev/MeshiteroBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SharkBot-Dev/MeshiteroBot/issues"
+  },
+  "homepage": "https://github.com/SharkBot-Dev/MeshiteroBot#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "misskey-js": "^2026.5.2",
+    "node-cron": "^4.2.1",
+    "ws": "^8.20.1"
+  }
+}
